@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-# ETL: Extract, Transform, and Load**
+# ETL: Extract, Transform, and Load
 
 In this project we had to update the Crowdfunding file and from that file create 3 separate files.
 
