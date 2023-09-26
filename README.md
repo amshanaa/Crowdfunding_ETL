@@ -21,6 +21,8 @@ Imported the "contacts.xlsx" file into a DataFrame. Iterated through the DataFra
 Once the 4 fields were created, they were added back into the original DataFrame (Crowdfunding), that updated Dataframe was then exported and renamed **campaign.csv**
 
 # Database Schema Design
+  Once the 4 fields were created, they were added back into the original DataFrame (Crowdfunding), that updated   Dataframe was then exported and renamed **campaign.csv**
+  
   To design the database schema, we followed these steps:
 
   Inspected the four CSV files and gathered information.
